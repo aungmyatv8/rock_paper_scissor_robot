@@ -1,0 +1,7 @@
+train: D:\ultralytics\dataset\train\
+val: D:\ultralytics\dataset\valid\
+test: D:\ultralytics\dataset\test\ 
+
+nc: 3
+names: ['Paper', 'Rock', 'Scissors']
+
